@@ -6,3 +6,6 @@ relative_links:
 include:
   - test.md
   - README.md
+markdown: kramdown
+kramdown:
+    math_engine: katex
